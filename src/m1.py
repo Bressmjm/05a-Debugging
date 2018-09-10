@@ -352,3 +352,4 @@ def broken_7(n, point, length, distance_between_lines, window):
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
+
